@@ -2,7 +2,8 @@
 
 A machine learning project that classifies messages as **spam** or **ham (not spam)** using **TF-IDF** and **Multinomial Naive Bayes**, with a web app built using **Streamlit**.
 
-🔗 **Live App:** PASTE-YOUR-STREAMLIT-LINK-HERE
+🔗 **Live App:** https://email-spam-detection-pljkilgfw9gvenkg5gsdfs.streamlit.app/
+
 
 ## 📌 Project Overview
 Spam messages waste time and can be harmful (phishing, scams). This project trains a model that reads a message and predicts whether it is spam.
@@ -29,7 +30,7 @@ Spam messages waste time and can be harmful (phishing, scams). This project trai
 7. Save the model with joblib and build a Streamlit web app
 
 ## ✅ Results
-- Accuracy: **ADD-YOUR-ACCURACY %** (copy it from your Step 4 output)
+- Accuracy: 96% to 98%
 - The model is very precise at catching spam, with few normal messages wrongly flagged.
 
 ## 📁 Project Structure
@@ -64,4 +65,4 @@ streamlit run app.py
 - Handle class imbalance
 
 ## 👤 Author
-**YOUR NAME** | B.Tech Information Technology
+Nishanthi S | B.Tech Information Technology
